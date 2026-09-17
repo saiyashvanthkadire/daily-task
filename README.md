@@ -35,15 +35,6 @@ There are two simple ways to use it:
 1. Open `index.html` directly in your browser.
 2. Or serve the folder with a local web server, for example:
 
-```bash
-python -m http.server 8000
-```
-
-Then visit:
-
-```text
-http://localhost:8000
-```
 
 ## Usage
 
